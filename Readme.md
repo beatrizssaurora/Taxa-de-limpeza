@@ -33,15 +33,21 @@ e mantenha a rentabilidade. A planilha foi atualizada com:
 - Cálculos automatizados na aba "Taxa Sugerida".
 - Tabela comparativa com status de cada imóvel (aba "Tabela Comparativa").
 - Recomendações claras para ajustes.
+
+
 📌 Recomendações
+
 ✅ Ajustar taxas dos CODES em prejuízo (OKA102, OKA106, OKA224)** para pelo menos
 cobrir o custo.
+
 ✅ Investigar custos zerados (OKA206, OKA213)** – possível erro de lançamento.
+
 ✅ Avaliar margens excessivas (OKA134, OKA139, OKA142)** para evitar distorções.
 
 ![Gráficos](Imagens/OKA134.jpg)
 
 ✅ Manter CODES lucrativos (OKA111, OKA233, OKA105, OKA120)** como prioridade.
+
 📊 Conclusão:
 - 3 CODES operam em prejuízo(precisam de correção).
 - 14 CODES operam com lucro (alguns com margens excessivas).
